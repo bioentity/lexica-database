@@ -1,0 +1,15 @@
+4896	Schizosaccharomyces pombe	CBS 356 <type material>|CBS 356|CCRC 21461 <type material>|CCRC 21461|DBVPG 6277 <type material>|DBVPG 6277|JCM 8274 <type material>|JCM 8274|MUCL 30245 <type material>|MUCL 30245|NRRL Y-12796 <type material>|NRRL Y-12796|Schizosaccharomyces malidevorans|Schizosaccharomyces pombeP|fission yeast	|S. pombe		
+4932	Saccharomyces cerevisiae	ATCC 18824 <ex-type>|ATCC 18824|CBS 1171 <ex-type>|CBS 1171|Candida robusta|NRRL Y-12632 <ex-type>|NRRL Y-12632|Saccaromyces cerevisiae|Saccharomyce cerevisiae|Saccharomyces capensis|Saccharomyces italicus|Saccharomyces oviformis|Saccharomyces uvarum var. melibiosus|Saccharomyes cerevisiae|Sccharomyces cerevisiae|baker's yeast|brewer's yeast	|S. cerevisiae		
+6237	Caenorhabditis	Caenorhabditis	|C. Caenorhabditis		
+6238	Caenorhabditis briggsae	Caenorhabditis briggsae|Caenorhabditis briggsae AF16|Caenorhabditis briggsae Dougherty & Nigon, 1949	|C. briggsae		
+6239	Caenorhabditis elegans	Caenorhabditis elegans|Caenorhabditis elegans (Maupas, 1900)|Rhabditis elegans|Rhabditis elegans Maupas, 1900|roundworm <Caenorhabditis elegans>|roundworm	|C. elegans		
+7215	Drosophila	Drosophila <fruit fly, genus>|Drosophila|Drosophila Fallen, 1823|fruit flies <Drosophila>|fruit flies|fruit fly <Drosophila>|fruit fly	|D. Drosophila		
+7226	Drosophila mauritiana	Drosophila mauritiana	|D. mauritiana		
+7227	Drosophila melanogaster	Drosophila melangaster|Drosophila melanogaster Meigen, 1830|Sophophora melanogaster|Sophophora melanogaster (Meigen, 1830)|fruit fly <Drosophila melanogaster>|fruit fly	|D. melanogaster		
+7237	Drosophila pseudoobscura	Drosophila pseudoobscura|Drosophila pseudoobscura Frolova & Astaurov, 1929	|D. pseudoobscura		
+7240	Drosophila simulans	Drosophila simulans	|D. simulans		
+7955	Danio rerio	Brachidanio rerio|Brachydanio rerio|Brachydanio rerio frankei|Cyprinus rerio|Cyprinus rerio Hamilton, 1822|Danio frankei|Danio rerio (Hamilton, 1822)|Danio rerio frankei|leopard danio|zebra danio|zebra fish <Danio rerio>|zebra fish|zebrafish	|D. rerio		
+10090	Mus musculus	LK3 transgenic mice|Mus muscaris|Mus musculus Linnaeus, 1758|Mus sp. 129SV|house mouse|mice C57BL/6xCBA/CaJ hybrid|mouse <Mus musculus>|mouse|nude mice|transgenic mice	|M. musculus		
+10116	Rattus norvegicus	Buffalo rat|Gunn rats|Norway rat|Rattus PC12 clone IS|Rattus norvegicus8|Rattus norwegicus|Rattus rattiscus|Rattus sp. strain Wistar|Sprague-Dawley rat|Wistar rats|brown rat|laboratory rat|rat <Rattus norvegicus>|rat|rats <Rattus norvegicus>|rats|zitter rats	|R. norvegicus		
+31234	Caenorhabditis remanei	Caenorhabditis remanei|Caenorhabditis remanei (Sudhaus, 1974)|Caenorhabditis vulgarensis|Caenorhabditis vulgariensis|Caenorhabditis vulgaris|Caenorhabditis vulgaris Baird, Fitch & Emmons, 1994	|C. remanei		
+125651	Angianthus	Angianthus|Angianthus J.C.Wendl., 1808	|A. Angianthus		

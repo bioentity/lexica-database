@@ -1,0 +1,14 @@
+#created from ftp://ftp.ncbi.nih.gov/pub/taxonomy/taxdump.zip names.dmp file
+ID	Symbol	Synonyms	Name	Notes
+6237	Caenorhabditis	roundworm
+6238	Caenorhabditis briggsae	C. briggsae|briggsae
+6239	Caenorhabditis elegans	C. elegans|elegans
+31234	Caenorhabditis remanei	C. remanei|remanei
+135651	Caenorhabditis brenneri	C. brenneri|brenneri
+7215	Drosophila	fruit fly
+7226	Drosophila mauritiana	D. mauritiana|mauritiana
+7227	Drosophila melangaster	Drosophilia melangaster|D. melangaster| melangaster
+7237	Drosophila pseudoobscura	D. pseudoobscura|pseudoobscura
+7240	Drosophila simulans	D.simulans|simulans
+4896	Schizosaccharomyces pombe	S. pombe|fission yeast|pombe
+4932	Saccharomyces cerevisiae	Saccaromyces cerevisiae|Saccharomyce cerevisiae|S. cerevisiae|cerevisiae|Saccharomyes cerevisiae|Sccharomyces cerevisiae|baker's yeast|brewer's yeast|budding yeast
