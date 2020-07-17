@@ -1,0 +1,74 @@
+Registering at identifiers.org for creating persistent links 
+Resource bioentitylink (MIR:00100890)
+URL Pattern https://bioentity.link/#/lexicon/public/{$id}
+Location  United States
+Institution InSilico Inc, in Eugene, OR
+Institution ROR ID  none
+
+Used Registries
+Namespace WormBase
+Local Unique Identifier (LUI) pattern ^WB[A-Z][a-z]+\d+$
+Legacy registry identifier  MIR:00000027
+Prefix  wb
+Description	WormBase
+URL Pattern	https://www.wormbase.org/get?name={$id}
+Home URL	https://www.wormbase.org/
+Location	United Kingdom
+Sample ID (LUI)	WBGene00000001
+Institution
+European Bioinformatics Institute
+Institution ROR ID	https://ror.org/02catss52
+
+Namespace Alliance of genome resources
+Local unique Identifier (LUI) pattern 
+Legacy registry identifierMIR:00100901
+Prefix  agr
+Name	WormBase through the Alliance of Genome Resources
+Description	WormBase through the Alliance of Genome Resources
+URL Pattern	https://www.alliancegenome.org/gene/WB:{$id}
+Home URL	https://www.alliancegenome.org
+Location	United States
+Sample ID (LUI)	WBGene00000001
+Institution Alliance of Genome Resources
+Institution ROR ID	
+
+Name	FlyBase
+Description	FlyBase is the database of the Drosophila Genome Projects and of associated literature.
+Local Unique Identifier (LUI) pattern	^FB\w{2}\d{7}$
+Legacy registry identifier	MIR:00000030
+Prefix	fb
+Registry URI	https://registry.identifiers.org/registry/fb
+Sample URL	https://identifiers.org/fb:FBgn0011293
+Sample Compact identifier	fb:FBgn0011293
+Sample ID (LUI)	FBgn0011293
+Name	FlyBase through BioEntity Link
+Description	FlyBase through BioEntity Link
+URL Pattern	https://bioentity.link/#/lexicon/public/{$id}
+Home URL	https://bioentity.link/
+Location	United States
+Sample ID (LUI)	FBgn0011293
+Institution InSilico Inc, in Eugene, Oregon
+Institution ROR ID	
+
+Name	The FlyBase Database
+Description	The FlyBase Database
+URL Pattern	http://flybase.org/reports/{$id}.html
+Home URL	http://flybase.org/
+Location	United States
+Sample ID (LUI)	FBgn0011293
+Institution The FlyBase Consortium
+Institution ROR ID	
+
+
+Linking of data entities using identifiers.org URLs
+identifiers.org URL syntax
+The URL for uniquely linking to data entities is written in the following form:
+
+https://identifiers.org/[provider_code/]namespace:accession
+
+The optional parameter provider_code denotes the Provider Code part of the Prefix. It is trailed by a slash, to separate it from the required namespace , which is followed by a colon and the accession.
+
+Examples
+https://identifiers.org/pubmed:22140103
+https://identifiers.org/ec-code:1.1.1.1
+https://identifiers.org/ols/taxonomy:9606
